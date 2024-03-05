@@ -1,0 +1,16 @@
+Strig endereco
+String telefone
+Real salario
+String cpf
+Real preco
+Boleana temperatura
+Boleana casado
+Date nascimento
+Boleana vacinado
+Real preco_gasolina
+Int litros_gasolina
+Real preco_pao
+Int total_compras
+Int idade
+Date data_contrato
+String nivel_escolaridade
